@@ -1,0 +1,13 @@
+Small modifications made to the DbgP vim plugin for the sake of my sanity
+
+CHANGELOG
+
+============================
+Initial Commit
+============================
+
+NEW:
+- "advance" command support [F7]
+
+BUGFIXES:
+- Fixed context viewer showing empty array key names
